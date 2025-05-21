@@ -1,4 +1,4 @@
 # Sbis-project
 
 #Front end development for Startup website
-#Made 
+#Made a scrollable pages with all fonts
