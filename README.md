@@ -1,3 +1,3 @@
 # Sbis-project
 
-Front end development
+Front end development for Startup website
